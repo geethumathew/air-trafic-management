@@ -32,5 +32,7 @@ users to determine if the flight is within the airspace.
 
 3.Run the test cases:
 
+# Assumptions
 
+1.Location is based on current time
 
