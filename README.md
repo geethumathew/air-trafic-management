@@ -1,7 +1,8 @@
-#Flight and Airspace Management System
-The Flight and Airspace Management System is a Java application that models flights and airspaces. 
+# Flight and Airspace Management System
+The Flight and Airspace Management System is a Java application that models flights and airspaces.
+This provides functionality to check if flights are within the airspace
 
-#Classes
+# Classes
 Coordinate: Represents the x and y coordinates.. 
 
 Flight: Represents a flight with departure, arrival, and current location information.
@@ -9,6 +10,7 @@ Flight: Represents a flight with departure, arrival, and current location inform
 Airspace: Represents an airspace with bottom-left and top-right coordinates.
 
 Aerodrome:Represents an Aerodrome with coordinates.
+
 # Problem
 Problem 1
 Enhance the Flight class to allow its user to determine where it is located.
